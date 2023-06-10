@@ -3,6 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  In my role as a full stack developer, I possess an extensive comprehension of the complete web development process, encompassing both the user interface and the server-side logic. Throughout my experience, I have collaborated with a diverse range of front-end and back-end technologies, equipping me with the ability to conceive, build, and sustain web applications from inception to completion.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
